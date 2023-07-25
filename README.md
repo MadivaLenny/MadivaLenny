@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **Software development @ ALX**
 
-- 💬 Ask me about **C, Shell, Kotlin and Java**
+- 💬 Ask me about **C, Shell, Kotlin, and Java**
 
 - 📫 How to reach me **madivalenny@gmail.com**
+
+<p align="left"> <a href="https://lennymadiva.com" target="blank"></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
