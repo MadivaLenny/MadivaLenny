@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonard Madiva</h1>
-<h3 align="center">A passionate android developer and fullstack engineer from Kenya</h3>
+<h3 align="center">A passionate Android developer and frontend developer and an electronics engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madivalenny&label=Profile%20views&color=0e75b6&style=flat" alt="madivalenny" /> </p>
 
@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/madiva_lenny" target="blank"><img src="https://img.shields.io/twitter/follow/madiva_lenny?logo=twitter&style=for-the-badge" alt="madiva_lenny" /></a> </p>
 
-- 🌱 I’m currently learning **Software development @ ALX**
 
-- 💬 Ask me about **C, Shell, Kotlin, and Java**
+- 💬 Ask me about **C, Python, Javascript, Kotlin, and Java**
 
 - 📫 How to reach me **madivalenny@gmail.com**
 
